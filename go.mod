@@ -1,6 +1,6 @@
 module github.com/eumel8/capi-secretsyncer
 
-go 1.23.4
+go 1.27.3
 
 require (
 	k8s.io/api v0.32.2
